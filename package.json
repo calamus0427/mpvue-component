@@ -1,0 +1,19 @@
+{
+  "name": "mpvue-component",
+  "version": "1.0.0",
+  "description": "mpvue,component",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calamus0427/mpvue-component.git"
+  },
+  "author": "calamus0427",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calamus0427/mpvue-component/issues"
+  },
+  "homepage": "https://github.com/calamus0427/mpvue-component#readme"
+}
